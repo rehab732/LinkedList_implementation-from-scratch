@@ -1,6 +1,7 @@
 # LinkedList_implementation-from-scratch
 
 #Implemented this functionality
+<br>
     1)Add data to linked list
     <br>
     2)Remove data from linked list
